@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><BookStore>
+
+
+    <Book code="113">
+        <Title>Web Design</Title>
+        <Price>400</Price>
+        <Author>Angela</Author>
+        <Edition>8</Edition>
+    </Book>
+    <Book code="114">
+        <Title>Game Development</Title>
+        <Price>500</Price>
+        <Author>Obama</Author>
+        <Edition>2</Edition>
+    </Book>
+
+
+</BookStore>
